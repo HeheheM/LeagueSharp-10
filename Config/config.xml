@@ -3153,137 +3153,137 @@
           <Description />
           <SvnUrl>https://github.com/OneKeyToWin/LeagueRepo</SvnUrl>
         </LeagueSharpAssembly>
-      <LeagueSharpAssembly>
-        <InstallChecked>true</InstallChecked>
-        <InjectChecked>false</InjectChecked>
-        <Status>Ready</Status>
-        <DisplayName>RelaxedWinner</DisplayName>
-        <Name>RelaxedWinner</Name>
-        <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\17647020\trunk\EscapeEloHell\EscapeEloHell\RelaxedWinner.csproj</PathToProjectFile>
-        <Description />
-        <SvnUrl>https://github.com/gab3l/LSharp</SvnUrl>
-      </LeagueSharpAssembly>
-      <LeagueSharpAssembly>
-        <InstallChecked>true</InstallChecked>
-        <InjectChecked>false</InjectChecked>
-        <Status>Ready</Status>
-        <DisplayName>PerfectWard</DisplayName>
-        <Name>PerfectWard</Name>
-        <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\5FEC6775\trunk\PerfectWard.csproj</PathToProjectFile>
-        <Description />
-        <SvnUrl>https://github.com/drunkenninja/Perfect-Wards--New-SR-</SvnUrl>
-      </LeagueSharpAssembly>
-      <LeagueSharpAssembly>
-        <InstallChecked>true</InstallChecked>
-        <InjectChecked>false</InjectChecked>
-        <Status>Ready</Status>
-        <DisplayName>Mata View</DisplayName>
-        <Name>Mata View</Name>
-        <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\B889E423\trunk\Mata View\Mata View\Mata View.csproj</PathToProjectFile>
-        <Description />
-        <SvnUrl>https://github.com/E2Slayer/LeagueSharp</SvnUrl>
-      </LeagueSharpAssembly>
-      <LeagueSharpAssembly>
-        <InstallChecked>true</InstallChecked>
-        <InjectChecked>false</InjectChecked>
-        <Status>Ready</Status>
-        <DisplayName>God Jungle Tracker</DisplayName>
-        <Name>God Jungle Tracker</Name>
-        <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\EF954DC8\trunk\God_Jungle_Tracker\God Jungle Tracker.csproj</PathToProjectFile>
-        <Description />
-        <SvnUrl>https://github.com/AlphaGodLoL/LeagueSharp</SvnUrl>
-      </LeagueSharpAssembly>
-      <LeagueSharpAssembly>
-        <InstallChecked>true</InstallChecked>
-        <InjectChecked>false</InjectChecked>
-        <Status>Ready</Status>
-        <DisplayName>Shared Experience</DisplayName>
-        <Name>Shared Experience</Name>
-        <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\EF954DC8\trunk\Shared Experience\Shared Experience.csproj</PathToProjectFile>
-        <Description />
-        <SvnUrl>https://github.com/AlphaGodLoL/LeagueSharp</SvnUrl>
-      </LeagueSharpAssembly>
-      <LeagueSharpAssembly>
-        <InstallChecked>true</InstallChecked>
-        <InjectChecked>false</InjectChecked>
-        <Status>Ready</Status>
-        <DisplayName>Oracle (Activator)</DisplayName>
-        <Name>Oracle (Activator)</Name>
-        <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\B029831F\trunk\Oracle (Activator)\Oracle (Activator).csproj</PathToProjectFile>
-        <Description />
-        <SvnUrl>https://github.com/xKurisu/KurisuSolutions</SvnUrl>
-      </LeagueSharpAssembly>
-      <LeagueSharpAssembly>
-        <InstallChecked>true</InstallChecked>
-        <InjectChecked>false</InjectChecked>
-        <Status>Ready</Status>
-        <DisplayName>BaseUlt3 - (Ashe, Draven, Ezreal, Jinx, Karthus)</DisplayName>
-        <Name>BaseUlt3</Name>
-        <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\16B8042B\trunk\BaseUlt3\BaseUlt3.csproj</PathToProjectFile>
-        <Description />
-        <SvnUrl>https://github.com/Beaving/LeagueSharp/</SvnUrl>
-      </LeagueSharpAssembly>
-      <LeagueSharpAssembly>
-        <InstallChecked>true</InstallChecked>
-        <InjectChecked>false</InjectChecked>
-        <Status>Ready</Status>
-        <DisplayName>LeaguesharpStreamingMode</DisplayName>
-        <Name>LeaguesharpStreamingMode</Name>
-        <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\9AB94A3D\trunk\LeaguesharpStreamingMode\LeaguesharpStreamingMode.csproj</PathToProjectFile>
-        <Description />
-        <SvnUrl>https://github.com/stefsot/LeaguesharpStreamingMode</SvnUrl>
-      </LeagueSharpAssembly>
-      <LeagueSharpAssembly>
-        <InstallChecked>true</InstallChecked>
-        <InjectChecked>false</InjectChecked>
-        <Status>Ready</Status>
-        <DisplayName>Universal GankAlerter</DisplayName>
-        <Name>UniversalGankAlerter</Name>
-        <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\F2F5A9AF\trunk\UniversalGankAlerter\UniversalGankAlerter.csproj</PathToProjectFile>
-        <Description />
-        <SvnUrl>https://github.com/TheSaltyWaffle/LeagueSharp</SvnUrl>
-      </LeagueSharpAssembly>
-      <LeagueSharpAssembly>
-        <InstallChecked>true</InstallChecked>
-        <InjectChecked>false</InjectChecked>
-        <Status>Ready</Status>
-        <DisplayName>Universal Leveler</DisplayName>
-        <Name>UniversalLeveler</Name>
-        <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\F2F5A9AF\trunk\UniversalLeveler\UniversalLeveler.csproj</PathToProjectFile>
-        <Description />
-        <SvnUrl>https://github.com/TheSaltyWaffle/LeagueSharp</SvnUrl>
-      </LeagueSharpAssembly>
-      <LeagueSharpAssembly>
-        <InstallChecked>true</InstallChecked>
-        <InjectChecked>false</InjectChecked>
-        <Status>Ready</Status>
-        <DisplayName>Universal MinimapHack</DisplayName>
-        <Name>UniversalMinimapHack</Name>
-        <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\F2F5A9AF\trunk\UniversalMinimapHack\UniversalMinimapHack.csproj</PathToProjectFile>
-        <Description />
-        <SvnUrl>https://github.com/TheSaltyWaffle/LeagueSharp</SvnUrl>
-      </LeagueSharpAssembly>
-      <LeagueSharpAssembly>
-        <InstallChecked>true</InstallChecked>
-        <InjectChecked>false</InjectChecked>
-        <Status>Ready</Status>
-        <DisplayName>Universal Pings</DisplayName>
-        <Name>UniversalPings</Name>
-        <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\F2F5A9AF\trunk\UniversalPings\UniversalPings.csproj</PathToProjectFile>
-        <Description />
-        <SvnUrl>https://github.com/TheSaltyWaffle/LeagueSharp</SvnUrl>
-      </LeagueSharpAssembly>
-      <LeagueSharpAssembly>
-        <InstallChecked>true</InstallChecked>
-        <InjectChecked>false</InjectChecked>
-        <Status>Ready</Status>
-        <DisplayName>Universal RecallTracker</DisplayName>
-        <Name>UniversalRecallTracker</Name>
-        <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\F2F5A9AF\trunk\UniversalRecallTracker\UniversalRecallTracker.csproj</PathToProjectFile>
-        <Description />
-        <SvnUrl>https://github.com/TheSaltyWaffle/LeagueSharp</SvnUrl>
-      </LeagueSharpAssembly>
-      </InstalledAssemblies>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>RelaxedWinner</DisplayName>
+          <Name>RelaxedWinner</Name>
+          <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\17647020\trunk\EscapeEloHell\EscapeEloHell\RelaxedWinner.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/gab3l/LSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>PerfectWard</DisplayName>
+          <Name>PerfectWard</Name>
+          <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\5FEC6775\trunk\PerfectWard.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/drunkenninja/Perfect-Wards--New-SR-</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>Mata View</DisplayName>
+          <Name>Mata View</Name>
+          <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\B889E423\trunk\Mata View\Mata View\Mata View.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/E2Slayer/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>God Jungle Tracker</DisplayName>
+          <Name>God Jungle Tracker</Name>
+          <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\EF954DC8\trunk\God_Jungle_Tracker\God Jungle Tracker.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/AlphaGodLoL/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>Shared Experience</DisplayName>
+          <Name>Shared Experience</Name>
+          <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\EF954DC8\trunk\Shared Experience\Shared Experience.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/AlphaGodLoL/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>Oracle (Activator)</DisplayName>
+          <Name>Oracle (Activator)</Name>
+          <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\B029831F\trunk\Oracle (Activator)\Oracle (Activator).csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/xKurisu/KurisuSolutions</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+         <DisplayName>BaseUlt3 - (Ashe, Draven, Ezreal, Jinx, Karthus)</DisplayName>
+          <Name>BaseUlt3</Name>
+          <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\16B8042B\trunk\BaseUlt3\BaseUlt3.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/Beaving/LeagueSharp/</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>LeaguesharpStreamingMode</DisplayName>
+          <Name>LeaguesharpStreamingMode</Name>
+          <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\9AB94A3D\trunk\LeaguesharpStreamingMode\LeaguesharpStreamingMode.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/stefsot/LeaguesharpStreamingMode</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>Universal GankAlerter</DisplayName>
+          <Name>UniversalGankAlerter</Name>
+          <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\F2F5A9AF\trunk\UniversalGankAlerter\UniversalGankAlerter.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/TheSaltyWaffle/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>Universal Leveler</DisplayName>
+          <Name>UniversalLeveler</Name>
+          <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\F2F5A9AF\trunk\UniversalLeveler\UniversalLeveler.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/TheSaltyWaffle/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>Universal MinimapHack</DisplayName>
+          <Name>UniversalMinimapHack</Name>
+          <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\F2F5A9AF\trunk\UniversalMinimapHack\UniversalMinimapHack.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/TheSaltyWaffle/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>Universal Pings</DisplayName>
+          <Name>UniversalPings</Name>
+          <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\F2F5A9AF\trunk\UniversalPings\UniversalPings.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/TheSaltyWaffle/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+         <Status>Ready</Status>
+          <DisplayName>Universal RecallTracker</DisplayName>
+          <Name>UniversalRecallTracker</Name>
+          <PathToProjectFile>%AppData%\LeagueSharp4831D661\Repositories\F2F5A9AF\trunk\UniversalRecallTracker\UniversalRecallTracker.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/TheSaltyWaffle/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+     </InstalledAssemblies>
     </Profiles>
   </Profiles>
   <KnownRepositories>
