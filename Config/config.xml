@@ -4,9 +4,9 @@
   <TosAccepted>true</TosAccepted>
   <SelectedLanguage>English</SelectedLanguage>
   <FirstRun>false</FirstRun>
-  <ShowDevOptions>false</ShowDevOptions>
+  <ShowDevOptions>true</ShowDevOptions>
   <Install>true</Install>
-  <UpdateOnLoad>false</UpdateOnLoad>
+  <UpdateOnLoad>true</UpdateOnLoad>
   <Settings>
     <GameSettings>
       <GameSettings>
@@ -31,7 +31,7 @@
           <string>True</string>
           <string>False</string>
         </PosibleValues>
-        <SelectedValue>False</SelectedValue>
+        <SelectedValue>True</SelectedValue>
       </GameSettings>
       <GameSettings>
         <Name>Extended Zoom</Name>
@@ -162,6 +162,16 @@
         <InstallChecked>true</InstallChecked>
         <InjectChecked>true</InjectChecked>
         <Status>Ready</Status>
+        <DisplayName>Library | SFXLibrary</DisplayName>
+        <Name>SFXLibrary</Name>
+        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\8CD57D75\trunk\SFXLibrary\SFXLibrary.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/Lizzaran/LeagueSharp-Dev</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>true</InjectChecked>
+        <Status>Ready</Status>
         <DisplayName>Library | UseTeleportWithFullHealthDll</DisplayName>
         <Name>UseTeleportWithFullHealthDll</Name>
         <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\17647020\trunk\EscapeEloHell\UseTeleportWithFullHealthDll\UseTeleportWithFullHealthDll.csproj</PathToProjectFile>
@@ -237,6 +247,16 @@
         <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\A30F3810\trunk\Aatrox\Aatrox.csproj</PathToProjectFile>
         <Description />
         <SvnUrl>https://github.com/HeheheM/LeagueSharp-15</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>Ahri - xSaliceReligionAIO</DisplayName>
+        <Name>xSaliceReligionAIO</Name>
+        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\CFB1B437\trunk\xSaliceReligionAIO\xSaliceReligionAIO\xSaliceReligionAIO.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/xSalice/LSharp</SvnUrl>
       </LeagueSharpAssembly>
       <LeagueSharpAssembly>
         <InstallChecked>true</InstallChecked>
@@ -412,6 +432,16 @@
         <InstallChecked>true</InstallChecked>
         <InjectChecked>false</InjectChecked>
         <Status>Ready</Status>
+        <DisplayName>Dr. Mundo - FedDrMundo</DisplayName>
+        <Name>FedDrMundo</Name>
+        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\D0ED58CE\trunk\FedDrMundo\FedDrMundo.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/livetorise/LeagueSharp</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
         <DisplayName>Draven - FuckingAwesomeDraven</DisplayName>
         <Name>FuckingAwesomeDraven</Name>
         <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\F8FB2C46\trunk\FuckingAwesomeDraven\FuckingAwesomeDraven\FuckingAwesomeDraven.csproj</PathToProjectFile>
@@ -494,9 +524,9 @@
         <Status>Ready</Status>
         <DisplayName>Gangplank - SwagPlank</DisplayName>
         <Name>SwagPlank</Name>
-        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\68DA9FF3\trunk\SwagPlank\SwagPlank.csproj</PathToProjectFile>
+        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\37804AEF\trunk\SwagPlank\SwagPlank.csproj</PathToProjectFile>
         <Description />
-        <SvnUrl>https://github.com/HeheheM/SwagPlank</SvnUrl>
+        <SvnUrl>https://github.com/DanThePman/SwagPlank/</SvnUrl>
       </LeagueSharpAssembly>
       <LeagueSharpAssembly>
         <InstallChecked>true</InstallChecked>
@@ -622,9 +652,9 @@
         <InstallChecked>true</InstallChecked>
         <InjectChecked>false</InjectChecked>
         <Status>Ready</Status>
-        <DisplayName>Kalista - Kalista (Hellsing)</DisplayName>
-        <Name>Kalista</Name>
-        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\9D4CA12F\trunk\Kalista\Kalista.csproj</PathToProjectFile>
+        <DisplayName>Kalista - KalistaResurrection</DisplayName>
+        <Name>KalistaResurrection</Name>
+        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\9D4CA12F\trunk\KalistaResurrection\KalistaResurrection.csproj</PathToProjectFile>
         <Description />
         <SvnUrl>https://github.com/Hellsing/LeagueSharp</SvnUrl>
       </LeagueSharpAssembly>
@@ -803,10 +833,10 @@
         <InjectChecked>false</InjectChecked>
         <Status>Ready</Status>
         <DisplayName>Maokai - BrianSharp</DisplayName>
-        <Name>BrianSharp</Name>
-        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\6C91DB5E\trunk\BrianSharp\BrianSharp.csproj</PathToProjectFile>
+        <Name>Brian Sharp</Name>
+        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\8A2F0BA4\trunk\Brian Sharp\Brian Sharp\Brian Sharp.csproj</PathToProjectFile>
         <Description />
-        <SvnUrl>https://github.com/MissSecret/BrianSharp</SvnUrl>
+        <SvnUrl>https://github.com/brian0305/LeagueSharp</SvnUrl>
       </LeagueSharpAssembly>
       <LeagueSharpAssembly>
         <InstallChecked>true</InstallChecked>
@@ -863,10 +893,10 @@
         <InjectChecked>false</InjectChecked>
         <Status>Ready</Status>
         <DisplayName>Nasus - BrianSharp</DisplayName>
-        <Name>BrianSharp</Name>
-        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\6C91DB5E\trunk\BrianSharp\BrianSharp.csproj</PathToProjectFile>
+        <Name>Brian Sharp</Name>
+        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\8A2F0BA4\trunk\Brian Sharp\Brian Sharp\Brian Sharp.csproj</PathToProjectFile>
         <Description />
-        <SvnUrl>https://github.com/MissSecret/BrianSharp</SvnUrl>
+        <SvnUrl>https://github.com/brian0305/LeagueSharp</SvnUrl>
       </LeagueSharpAssembly>
       <LeagueSharpAssembly>
         <InstallChecked>true</InstallChecked>
@@ -963,10 +993,10 @@
         <InjectChecked>false</InjectChecked>
         <Status>Ready</Status>
         <DisplayName>Rammus - BrianSharp</DisplayName>
-        <Name>BrianSharp</Name>
-        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\6C91DB5E\trunk\BrianSharp\BrianSharp.csproj</PathToProjectFile>
+        <Name>Brian Sharp</Name>
+        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\8A2F0BA4\trunk\Brian Sharp\Brian Sharp\Brian Sharp.csproj</PathToProjectFile>
         <Description />
-        <SvnUrl>https://github.com/MissSecret/BrianSharp</SvnUrl>
+        <SvnUrl>https://github.com/brian0305/LeagueSharp</SvnUrl>
       </LeagueSharpAssembly>
       <LeagueSharpAssembly>
         <InstallChecked>true</InstallChecked>
@@ -1223,10 +1253,10 @@
         <InjectChecked>false</InjectChecked>
         <Status>Ready</Status>
         <DisplayName>Tryndamere - BrianSharp</DisplayName>
-        <Name>BrianSharp</Name>
-        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\6C91DB5E\trunk\BrianSharp\BrianSharp.csproj</PathToProjectFile>
+        <Name>Brian Sharp</Name>
+        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\8A2F0BA4\trunk\Brian Sharp\Brian Sharp\Brian Sharp.csproj</PathToProjectFile>
         <Description />
-        <SvnUrl>https://github.com/MissSecret/BrianSharp</SvnUrl>
+        <SvnUrl>https://github.com/brian0305/LeagueSharp</SvnUrl>
       </LeagueSharpAssembly>
       <LeagueSharpAssembly>
         <InstallChecked>true</InstallChecked>
@@ -1282,19 +1312,19 @@
         <InstallChecked>true</InstallChecked>
         <InjectChecked>false</InjectChecked>
         <Status>Ready</Status>
-        <DisplayName>Vayne - OneKeyToWin</DisplayName>
-        <Name>Vayne_OneKeyToWin</Name>
-        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\92E8AF66\trunk\Vayne_OneKeyToWin\Vayne_OneKeyToWin\Vayne_OneKeyToWin.csproj</PathToProjectFile>
+        <DisplayName>Vayne - MAC Reborn</DisplayName>
+        <Name>MAC Reborn</Name>
+        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\5ECBAC53\trunk\MAC Reborn\MAC Reborn\MAC Reborn.csproj</PathToProjectFile>
         <Description />
-        <SvnUrl>https://github.com/OneKeyToWin/LeagueRepo</SvnUrl>
+        <SvnUrl>https://github.com/TehBlaxxor/LeagueSharp</SvnUrl>
       </LeagueSharpAssembly>
       <LeagueSharpAssembly>
         <InstallChecked>true</InstallChecked>
         <InjectChecked>false</InjectChecked>
         <Status>Ready</Status>
-        <DisplayName>Veigar - Veigar, The Tiny Master Of Evil</DisplayName>
-        <Name>Veigar, The Tiny Master Of Evil</Name>
-        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\8D02F549\trunk\Veigar, The Tiny Master Of Evil\Veigar, The Tiny Master Of Evil.csproj</PathToProjectFile>
+        <DisplayName>Veigar - TTMOE</DisplayName>
+        <Name>Veigar TTMOE</Name>
+        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\8D02F549\trunk\Veigar TTMOE\Veigar TTMOE.csproj</PathToProjectFile>
         <Description />
         <SvnUrl>https://github.com/DedToto/L-</SvnUrl>
       </LeagueSharpAssembly>
@@ -1322,21 +1352,21 @@
         <InstallChecked>true</InstallChecked>
         <InjectChecked>false</InjectChecked>
         <Status>Ready</Status>
-        <DisplayName>Viktor - ViktorTheMindBlower</DisplayName>
-        <Name>ViktorTheMindBlower</Name>
-        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\EA86FD89\trunk\ViktorTheMindBlower\ViktorTheMindBlower\ViktorTheMindBlower.csproj</PathToProjectFile>
+        <DisplayName>Viktor - Viktor (Apollo16)</DisplayName>
+        <Name>Viktor</Name>
+        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\27ABDE44\trunk\Viktor\Viktor\Viktor.csproj</PathToProjectFile>
         <Description />
-        <SvnUrl>https://github.com/HeheheM/LSharp</SvnUrl>
+        <SvnUrl>https://github.com/Apollo16/LeagueSharp</SvnUrl>
       </LeagueSharpAssembly>
       <LeagueSharpAssembly>
         <InstallChecked>true</InstallChecked>
         <InjectChecked>false</InjectChecked>
         <Status>Ready</Status>
-        <DisplayName>Vladimir - xSaliceReligionAIO</DisplayName>
-        <Name>xSaliceReligionAIO</Name>
-        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\CFB1B437\trunk\xSaliceReligionAIO\xSaliceReligionAIO\xSaliceReligionAIO.csproj</PathToProjectFile>
+        <DisplayName>Vladimir - ElVladimirReborn</DisplayName>
+        <Name>ElVladimirReborn</Name>
+        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\EA710E88\trunk\ElVladimirReborn\ElVladimirReborn\ElVladimirReborn.csproj</PathToProjectFile>
         <Description />
-        <SvnUrl>https://github.com/xSalice/LSharp</SvnUrl>
+        <SvnUrl>https://github.com/AlterEgojQuery/ElBundle</SvnUrl>
       </LeagueSharpAssembly>
       <LeagueSharpAssembly>
         <InstallChecked>true</InstallChecked>
@@ -1490,7 +1520,7 @@
       </LeagueSharpAssembly>
       <LeagueSharpAssembly>
         <InstallChecked>true</InstallChecked>
-        <InjectChecked>true</InjectChecked>
+        <InjectChecked>false</InjectChecked>
         <Status>Ready</Status>
         <DisplayName>Utility | Evade</DisplayName>
         <Name>Evade</Name>
@@ -1540,7 +1570,7 @@
       </LeagueSharpAssembly>
       <LeagueSharpAssembly>
         <InstallChecked>true</InstallChecked>
-        <InjectChecked>true</InjectChecked>
+        <InjectChecked>false</InjectChecked>
         <Status>Ready</Status>
         <DisplayName>Utility | Mata View</DisplayName>
         <Name>Mata View</Name>
@@ -1550,7 +1580,7 @@
       </LeagueSharpAssembly>
       <LeagueSharpAssembly>
         <InstallChecked>true</InstallChecked>
-        <InjectChecked>true</InjectChecked>
+        <InjectChecked>false</InjectChecked>
         <Status>Ready</Status>
         <DisplayName>Utility | God Jungle Tracker</DisplayName>
         <Name>God Jungle Tracker</Name>
@@ -1600,7 +1630,7 @@
       </LeagueSharpAssembly>
       <LeagueSharpAssembly>
         <InstallChecked>true</InstallChecked>
-        <InjectChecked>true</InjectChecked>
+        <InjectChecked>false</InjectChecked>
         <Status>Ready</Status>
         <DisplayName>Utility | Universal GankAlerter</DisplayName>
         <Name>UniversalGankAlerter</Name>
@@ -1620,7 +1650,7 @@
       </LeagueSharpAssembly>
       <LeagueSharpAssembly>
         <InstallChecked>true</InstallChecked>
-        <InjectChecked>true</InjectChecked>
+        <InjectChecked>false</InjectChecked>
         <Status>Ready</Status>
         <DisplayName>Utility | Universal MinimapHack</DisplayName>
         <Name>UniversalMinimapHack</Name>
@@ -1630,7 +1660,7 @@
       </LeagueSharpAssembly>
       <LeagueSharpAssembly>
         <InstallChecked>true</InstallChecked>
-        <InjectChecked>true</InjectChecked>
+        <InjectChecked>false</InjectChecked>
         <Status>Ready</Status>
         <DisplayName>Utility | Universal RecallTracker</DisplayName>
         <Name>UniversalRecallTracker</Name>
@@ -1652,11 +1682,31 @@
         <InstallChecked>true</InstallChecked>
         <InjectChecked>false</InjectChecked>
         <Status>Ready</Status>
-        <DisplayName>Utility |  UseTeleportWithFullHealth</DisplayName>
+        <DisplayName>Utility | UseTeleportWithFullHealth</DisplayName>
         <Name>UseTeleportWithFullHealth</Name>
         <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\17647020\trunk\EscapeEloHell\UseTeleportWithFullHealth\UseTeleportWithFullHealth.csproj</PathToProjectFile>
         <Description />
         <SvnUrl>https://github.com/gab3l/LSharp</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>Utility | SFXUtility</DisplayName>
+        <Name>SFXUtility</Name>
+        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\8CD57D75\trunk\SFXUtility\SFXUtility.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/Lizzaran/LeagueSharp-Dev</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>Utility | MetaSmite</DisplayName>
+        <Name>MetaSmite</Name>
+        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\E9FE08CC\trunk\MetaSmite\MetaSmite.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/metaphorce/leaguesharp</SvnUrl>
       </LeagueSharpAssembly>
       <LeagueSharpAssembly>
         <InstallChecked>true</InstallChecked>
@@ -1697,16 +1747,6 @@
         <PathToProjectFile>%AppData%\LeagueSharp\Repositories\DDDDDDDD\trunk\HeheheM\HeheheM\HeheheMl.csproj</PathToProjectFile>
         <Description />
         <SvnUrl>http://www.mpcforum.pl/topic/1356587-spis-skrypt%C3%B3w-co-robi%C4%85-kt%C3%B3ry-lepszy-updated/</SvnUrl>
-      </LeagueSharpAssembly>
-      <LeagueSharpAssembly>
-        <InstallChecked>true</InstallChecked>
-        <InjectChecked>false</InjectChecked>
-        <Status>Ready</Status>
-        <DisplayName>Viktor - Viktor</DisplayName>
-        <Name>Viktor</Name>
-        <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\27ABDE44\trunk\Viktor\Viktor\Viktor.csproj</PathToProjectFile>
-        <Description />
-        <SvnUrl>https://github.com/Apollo16/LeagueSharp</SvnUrl>
       </LeagueSharpAssembly>
     </InstalledAssemblies>
   </SelectedProfile>
@@ -1798,7 +1838,17 @@
           <InstallChecked>true</InstallChecked>
           <InjectChecked>true</InjectChecked>
           <Status>Ready</Status>
-          <DisplayName>Library | "UseTeleportWithFullHealthDll</DisplayName>
+          <DisplayName>Library | SFXLibrary</DisplayName>
+          <Name>SFXLibrary</Name>
+          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\8CD57D75\trunk\SFXLibrary\SFXLibrary.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/Lizzaran/LeagueSharp-Dev</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>true</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>Library | UseTeleportWithFullHealthDll</DisplayName>
           <Name>UseTeleportWithFullHealthDll</Name>
           <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\17647020\trunk\EscapeEloHell\UseTeleportWithFullHealthDll\UseTeleportWithFullHealthDll.csproj</PathToProjectFile>
           <Description />
@@ -2058,11 +2108,11 @@
           <InstallChecked>true</InstallChecked>
           <InjectChecked>false</InjectChecked>
           <Status>Ready</Status>
-          <DisplayName>Dr. Mundo - BrianSharp</DisplayName>
-          <Name>BrianSharp</Name>
-          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\6C91DB5E\trunk\BrianSharp\BrianSharp.csproj</PathToProjectFile>
+          <DisplayName>Dr. Mundo - FedDrMundo</DisplayName>
+          <Name>FedDrMundo</Name>
+          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\D0ED58CE\trunk\FedDrMundo\FedDrMundo.csproj</PathToProjectFile>
           <Description />
-          <SvnUrl>https://github.com/MissSecret/BrianSharp</SvnUrl>
+          <SvnUrl>https://github.com/livetorise/LeagueSharp</SvnUrl>
         </LeagueSharpAssembly>
         <LeagueSharpAssembly>
           <InstallChecked>true</InstallChecked>
@@ -2150,9 +2200,9 @@
           <Status>Ready</Status>
           <DisplayName>Gangplank - SwagPlank</DisplayName>
           <Name>SwagPlank</Name>
-          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\68DA9FF3\trunk\SwagPlank\SwagPlank.csproj</PathToProjectFile>
+          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\37804AEF\trunk\SwagPlank\SwagPlank.csproj</PathToProjectFile>
           <Description />
-          <SvnUrl>https://github.com/HeheheM/SwagPlank</SvnUrl>
+          <SvnUrl>https://github.com/DanThePman/SwagPlank/</SvnUrl>
         </LeagueSharpAssembly>
         <LeagueSharpAssembly>
           <InstallChecked>true</InstallChecked>
@@ -2278,9 +2328,9 @@
           <InstallChecked>true</InstallChecked>
           <InjectChecked>false</InjectChecked>
           <Status>Ready</Status>
-          <DisplayName>Kalista - Kalista (Hellsing)</DisplayName>
-          <Name>Kalista</Name>
-          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\9D4CA12F\trunk\Kalista\Kalista.csproj</PathToProjectFile>
+          <DisplayName>Kalista - KalistaResurrection</DisplayName>
+          <Name>KalistaResurrection</Name>
+          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\9D4CA12F\trunk\KalistaResurrection\KalistaResurrection.csproj</PathToProjectFile>
           <Description />
           <SvnUrl>https://github.com/Hellsing/LeagueSharp</SvnUrl>
         </LeagueSharpAssembly>
@@ -2459,10 +2509,10 @@
           <InjectChecked>false</InjectChecked>
           <Status>Ready</Status>
           <DisplayName>Maokai - BrianSharp</DisplayName>
-          <Name>BrianSharp</Name>
-          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\6C91DB5E\trunk\BrianSharp\BrianSharp.csproj</PathToProjectFile>
+          <Name>Brian Sharp</Name>
+          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\8A2F0BA4\trunk\Brian Sharp\Brian Sharp\Brian Sharp.csproj</PathToProjectFile>
           <Description />
-          <SvnUrl>https://github.com/MissSecret/BrianSharp</SvnUrl>
+          <SvnUrl>https://github.com/brian0305/LeagueSharp</SvnUrl>
         </LeagueSharpAssembly>
         <LeagueSharpAssembly>
           <InstallChecked>true</InstallChecked>
@@ -2519,10 +2569,10 @@
           <InjectChecked>false</InjectChecked>
           <Status>Ready</Status>
           <DisplayName>Nasus - BrianSharp</DisplayName>
-          <Name>BrianSharp</Name>
-          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\6C91DB5E\trunk\BrianSharp\BrianSharp.csproj</PathToProjectFile>
+          <Name>Brian Sharp</Name>
+          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\8A2F0BA4\trunk\Brian Sharp\Brian Sharp\Brian Sharp.csproj</PathToProjectFile>
           <Description />
-          <SvnUrl>https://github.com/MissSecret/BrianSharp</SvnUrl>
+          <SvnUrl>https://github.com/brian0305/LeagueSharp</SvnUrl>
         </LeagueSharpAssembly>
         <LeagueSharpAssembly>
           <InstallChecked>true</InstallChecked>
@@ -2619,10 +2669,10 @@
           <InjectChecked>false</InjectChecked>
           <Status>Ready</Status>
           <DisplayName>Rammus - BrianSharp</DisplayName>
-          <Name>BrianSharp</Name>
-          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\6C91DB5E\trunk\BrianSharp\BrianSharp.csproj</PathToProjectFile>
+          <Name>Brian Sharp</Name>
+          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\8A2F0BA4\trunk\Brian Sharp\Brian Sharp\Brian Sharp.csproj</PathToProjectFile>
           <Description />
-          <SvnUrl>https://github.com/MissSecret/BrianSharp</SvnUrl>
+          <SvnUrl>https://github.com/brian0305/LeagueSharp</SvnUrl>
         </LeagueSharpAssembly>
         <LeagueSharpAssembly>
           <InstallChecked>true</InstallChecked>
@@ -2688,7 +2738,7 @@
           <InstallChecked>true</InstallChecked>
           <InjectChecked>false</InjectChecked>
           <Status>Ready</Status>
-          <DisplayName>ElSejuani</DisplayName>
+          <DisplayName>Sejuani - ElSejuani</DisplayName>
           <Name>ElSejuani</Name>
           <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\EA710E88\trunk\ElSejuani\ElSejuani\ElSejuani.csproj</PathToProjectFile>
           <Description />
@@ -2879,10 +2929,10 @@
           <InjectChecked>false</InjectChecked>
           <Status>Ready</Status>
           <DisplayName>Tryndamere - BrianSharp</DisplayName>
-          <Name>BrianSharp</Name>
-          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\6C91DB5E\trunk\BrianSharp\BrianSharp.csproj</PathToProjectFile>
+          <Name>Brian Sharp</Name>
+          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\8A2F0BA4\trunk\Brian Sharp\Brian Sharp\Brian Sharp.csproj</PathToProjectFile>
           <Description />
-          <SvnUrl>https://github.com/MissSecret/BrianSharp</SvnUrl>
+          <SvnUrl>https://github.com/brian0305/LeagueSharp</SvnUrl>
         </LeagueSharpAssembly>
         <LeagueSharpAssembly>
           <InstallChecked>true</InstallChecked>
@@ -2938,19 +2988,19 @@
           <InstallChecked>true</InstallChecked>
           <InjectChecked>false</InjectChecked>
           <Status>Ready</Status>
-          <DisplayName>Vayne - OneKeyToWin</DisplayName>
-          <Name>Vayne_OneKeyToWin</Name>
-          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\92E8AF66\trunk\Vayne_OneKeyToWin\Vayne_OneKeyToWin\Vayne_OneKeyToWin.csproj</PathToProjectFile>
+          <DisplayName>Vayne - MAC Reborn</DisplayName>
+          <Name>MAC Reborn</Name>
+          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\5ECBAC53\trunk\MAC Reborn\MAC Reborn\MAC Reborn.csproj</PathToProjectFile>
           <Description />
-          <SvnUrl>https://github.com/OneKeyToWin/LeagueRepo</SvnUrl>
+          <SvnUrl>https://github.com/TehBlaxxor/LeagueSharp</SvnUrl>
         </LeagueSharpAssembly>
         <LeagueSharpAssembly>
           <InstallChecked>true</InstallChecked>
           <InjectChecked>false</InjectChecked>
           <Status>Ready</Status>
-          <DisplayName>Veigar - Veigar, The Tiny Master Of Evil</DisplayName>
-          <Name>Veigar, The Tiny Master Of Evil</Name>
-          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\8D02F549\trunk\Veigar, The Tiny Master Of Evil\Veigar, The Tiny Master Of Evil.csproj</PathToProjectFile>
+          <DisplayName>Veigar - TTMOE</DisplayName>
+          <Name>Veigar TTMOE</Name>
+          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\8D02F549\trunk\Veigar TTMOE\Veigar TTMOE.csproj</PathToProjectFile>
           <Description />
           <SvnUrl>https://github.com/DedToto/L-</SvnUrl>
         </LeagueSharpAssembly>
@@ -2978,21 +3028,21 @@
           <InstallChecked>true</InstallChecked>
           <InjectChecked>false</InjectChecked>
           <Status>Ready</Status>
-          <DisplayName>Viktor - ViktorTheMindBlower</DisplayName>
-          <Name>ViktorTheMindBlower</Name>
-          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\EA86FD89\trunk\ViktorTheMindBlower\ViktorTheMindBlower\ViktorTheMindBlower.csproj</PathToProjectFile>
+          <DisplayName>Viktor - Viktor (Apollo16)</DisplayName>
+          <Name>Viktor</Name>
+          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\27ABDE44\trunk\Viktor\Viktor\Viktor.csproj</PathToProjectFile>
           <Description />
-          <SvnUrl>https://github.com/HeheheM/LSharp</SvnUrl>
+          <SvnUrl>https://github.com/Apollo16/LeagueSharp</SvnUrl>
         </LeagueSharpAssembly>
         <LeagueSharpAssembly>
           <InstallChecked>true</InstallChecked>
           <InjectChecked>false</InjectChecked>
           <Status>Ready</Status>
-          <DisplayName>Vladimir - xSaliceReligionAIO</DisplayName>
-          <Name>xSaliceReligionAIO</Name>
-          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\CFB1B437\trunk\xSaliceReligionAIO\xSaliceReligionAIO\xSaliceReligionAIO.csproj</PathToProjectFile>
+          <DisplayName>Vladimir - ElVladimirReborn</DisplayName>
+          <Name>ElVladimirReborn</Name>
+          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\EA710E88\trunk\ElVladimirReborn\ElVladimirReborn\ElVladimirReborn.csproj</PathToProjectFile>
           <Description />
-          <SvnUrl>https://github.com/xSalice/LSharp</SvnUrl>
+          <SvnUrl>https://github.com/AlterEgojQuery/ElBundle</SvnUrl>
         </LeagueSharpAssembly>
         <LeagueSharpAssembly>
           <InstallChecked>true</InstallChecked>
@@ -3026,7 +3076,7 @@
         </LeagueSharpAssembly>
         <LeagueSharpAssembly>
           <InstallChecked>true</InstallChecked>
-          <InjectChecked>true</InjectChecked>
+          <InjectChecked>false</InjectChecked>
           <Status>Ready</Status>
           <DisplayName>Xerath - ElXerath</DisplayName>
           <Name>ElXerath</Name>
@@ -3146,7 +3196,7 @@
         </LeagueSharpAssembly>
         <LeagueSharpAssembly>
           <InstallChecked>true</InstallChecked>
-          <InjectChecked>true</InjectChecked>
+          <InjectChecked>false</InjectChecked>
           <Status>Ready</Status>
           <DisplayName>Utility | Evade</DisplayName>
           <Name>Evade</Name>
@@ -3196,7 +3246,7 @@
         </LeagueSharpAssembly>
         <LeagueSharpAssembly>
           <InstallChecked>true</InstallChecked>
-          <InjectChecked>true</InjectChecked>
+          <InjectChecked>false</InjectChecked>
           <Status>Ready</Status>
           <DisplayName>Utility | Mata View</DisplayName>
           <Name>Mata View</Name>
@@ -3206,7 +3256,7 @@
         </LeagueSharpAssembly>
         <LeagueSharpAssembly>
           <InstallChecked>true</InstallChecked>
-          <InjectChecked>true</InjectChecked>
+          <InjectChecked>false</InjectChecked>
           <Status>Ready</Status>
           <DisplayName>Utility | God Jungle Tracker</DisplayName>
           <Name>God Jungle Tracker</Name>
@@ -3256,7 +3306,7 @@
         </LeagueSharpAssembly>
         <LeagueSharpAssembly>
           <InstallChecked>true</InstallChecked>
-          <InjectChecked>true</InjectChecked>
+          <InjectChecked>false</InjectChecked>
           <Status>Ready</Status>
           <DisplayName>Utility | Universal GankAlerter</DisplayName>
           <Name>UniversalGankAlerter</Name>
@@ -3276,7 +3326,7 @@
         </LeagueSharpAssembly>
         <LeagueSharpAssembly>
           <InstallChecked>true</InstallChecked>
-          <InjectChecked>true</InjectChecked>
+          <InjectChecked>false</InjectChecked>
           <Status>Ready</Status>
           <DisplayName>Utility | Universal MinimapHack</DisplayName>
           <Name>UniversalMinimapHack</Name>
@@ -3287,16 +3337,6 @@
         <LeagueSharpAssembly>
           <InstallChecked>true</InstallChecked>
           <InjectChecked>false</InjectChecked>
-          <Status>CompilingError</Status>
-          <DisplayName>Utility | Universal Pings</DisplayName>
-          <Name>UniversalPings</Name>
-          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\F2F5A9AF\trunk\UniversalPings\UniversalPings.csproj</PathToProjectFile>
-          <Description />
-          <SvnUrl>https://github.com/TheSaltyWaffle/LeagueSharp</SvnUrl>
-        </LeagueSharpAssembly>
-        <LeagueSharpAssembly>
-          <InstallChecked>true</InstallChecked>
-          <InjectChecked>true</InjectChecked>
           <Status>Ready</Status>
           <DisplayName>Utility | Universal RecallTracker</DisplayName>
           <Name>UniversalRecallTracker</Name>
@@ -3323,6 +3363,26 @@
           <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\17647020\trunk\EscapeEloHell\UseTeleportWithFullHealth\UseTeleportWithFullHealth.csproj</PathToProjectFile>
           <Description />
           <SvnUrl>https://github.com/gab3l/LSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>Utility | SFXUtility</DisplayName>
+          <Name>SFXUtility</Name>
+          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\8CD57D75\trunk\SFXUtility\SFXUtility.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/Lizzaran/LeagueSharp-Dev</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>Utility | MetaSmite</DisplayName>
+          <Name>MetaSmite</Name>
+          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\E9FE08CC\trunk\MetaSmite\MetaSmite.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/metaphorce/leaguesharp</SvnUrl>
         </LeagueSharpAssembly>
         <LeagueSharpAssembly>
           <InstallChecked>true</InstallChecked>
@@ -3364,16 +3424,6 @@
           <Description />
           <SvnUrl>http://www.mpcforum.pl/topic/1356587-spis-skrypt%C3%B3w-co-robi%C4%85-kt%C3%B3ry-lepszy-updated/</SvnUrl>
         </LeagueSharpAssembly>
-        <LeagueSharpAssembly>
-          <InstallChecked>true</InstallChecked>
-          <InjectChecked>false</InjectChecked>
-          <Status>Ready</Status>
-          <DisplayName>Viktor - Viktor</DisplayName>
-          <Name>Viktor</Name>
-          <PathToProjectFile>%AppData%\LSD3FD2B6F\Repositories\27ABDE44\trunk\Viktor\Viktor\Viktor.csproj</PathToProjectFile>
-          <Description />
-          <SvnUrl>https://github.com/Apollo16/LeagueSharp</SvnUrl>
-        </LeagueSharpAssembly>
       </InstalledAssemblies>
     </Profiles>
   </Profiles>
@@ -3396,7 +3446,7 @@
     <KnownRepositories>https://github.com/xKurisu/KurisuSolutions</KnownRepositories>
     <KnownRepositories>https://github.com/xQxCPMxQx/LeagueSharp2</KnownRepositories>
     <KnownRepositories>https://github.com/xSalice/LSharp</KnownRepositories>
-    <KnownRepositories>https://github.com/brian0305/MasterSeries</KnownRepositories>
+    <KnownRepositories>https://github.com/brian0305/LeagueSharp</KnownRepositories>
     <KnownRepositories>https://github.com/FlapperDoodlez/LeagueSharp</KnownRepositories>
     <KnownRepositories>https://github.com/fueledbyflux/LeagueSharp-Public</KnownRepositories>
     <KnownRepositories>https://github.com/imsosharp/leaguesharp</KnownRepositories>
@@ -3406,6 +3456,7 @@
     <KnownRepositories>https://github.com/OneKeyToWin/LeagueRepo</KnownRepositories>
     <KnownRepositories>https://github.com/SephLeague/LeagueSharp</KnownRepositories>
     <KnownRepositories>https://github.com/SKOx0/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/Soresu/LeagueSharp</KnownRepositories>
     <KnownRepositories>https://github.com/TheSaltyWaffle/LeagueSharp</KnownRepositories>
     <KnownRepositories>https://github.com/yol0swag/LeagueSharp</KnownRepositories>
     <KnownRepositories>https://github.com/alrik94/LeagueSharp</KnownRepositories>
